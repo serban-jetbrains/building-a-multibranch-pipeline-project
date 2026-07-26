@@ -9,6 +9,7 @@ pipeline {
                 echo 'New commit #3'
                 echo 'New commit #4'
                 echo 'New commit #5'
+                echo 'New commit #6'
             }
         }
     }
